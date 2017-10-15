@@ -38,7 +38,7 @@
   ],
   "dependencies": {
     "prop-types": "^15.6.0",
-    "react-native-experimental-navigation": "kesha-antonov/react-native-experimental-navigation#670667606fb43d1171a429ead5ecdd6029d6de8d",
+    "react-native-experimental-navigation": "aksonov/react-native-experimental-navigation#83ef0b95f026089cb90f4e40c4e52dc3fb550fe8",
     "react-native-tabs": "^1.0.9",
     "react-static-container": "1.0.1"
   },
